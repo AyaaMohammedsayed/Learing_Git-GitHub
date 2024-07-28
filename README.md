@@ -1,6 +1,6 @@
 # Master Git & GitHub: Essential Skills for Developers
 
-Welcome to the repository demonstrating the skills and knowledge acquired from the Udemy course [Master Git & GitHub: Essential Skills for Developers](https://www.udemy.com/course/master-git-github-essential-skills-for-developersarabic/learn/lecture/44148816#learning-tools). This document outlines the core outcomes and key skills gained from the course.
+Welcome to the repository demonstrating the skills and knowledge acquired from the Udemy course [Master Git & GitHub: Essential Skills for Developers](https://www.udemy.com/course/master-git-github-essential-skills-for-developersarabic/learn/lecture/44148816#learning-tools)[ &Git & Github From elmadrasah ](https://almdrasa.com/tracks/programming-foundations/courses/git-github/). This document outlines the core outcomes and key skills gained from the course.
 
 ## Introduction
 
